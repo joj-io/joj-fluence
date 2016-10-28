@@ -5,7 +5,7 @@
 	<artifactId>joj-fluence-parent</artifactId>
 	<version>1.0.1</version>
 	<packaging>pom</packaging>
-        <name>joj-fluence-parent</name>
+	<name>joj-fluence-parent</name>
 	<description>Fluence parent</description>
 	<url>http://joj.io/</url>
 
