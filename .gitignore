@@ -4,6 +4,9 @@ target/
 # TestNG
 test-output/
 
+# Maven
+pom.xml.versionsBackup
+
 # Eclipse metadata
 .classpath
 .project
