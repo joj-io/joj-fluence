@@ -12,6 +12,10 @@ pom.xml.versionsBackup
 .project
 .settings
 
+# IntelliJ metadata
+.idea/
+*.iml
+
 # Package Files #
 *.jar
 *.war
