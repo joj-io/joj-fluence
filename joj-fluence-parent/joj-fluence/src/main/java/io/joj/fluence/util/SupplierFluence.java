@@ -1,11 +1,11 @@
 package io.joj.fluence.util;
 
-import static java.lang.String.format;
-import static java.util.Objects.requireNonNull;
-
 import java.io.Serializable;
 import java.util.Optional;
 import java.util.function.Supplier;
+
+import static java.lang.String.format;
+import static java.util.Objects.requireNonNull;
 
 /**
  * Makes your {@link Supplier}s more fluent.
