@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
  * @author findepi
  * @since Oct 27, 2016
  */
-public class SupplierFluenceTest {
+public class SupplierFuTest {
 
 	@Test
 	public void testMemoizeMemoizes() {
